@@ -8,7 +8,7 @@ Building backend systems, business automation, AI-powered tools
 and applied machine learning solutions.
 
 [Website](https://paperniuk.com) ·
-[LinkedIn](https://www.linkedin.com/in/erik-paperniuk) ·
+[LinkedIn](https://www.linkedin.com/in/paperniuk) ·
 [Repositories](https://github.com/paperniuk?tab=repositories)
 
 </div>
