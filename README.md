@@ -4,7 +4,7 @@ System integration and automation engineer based in Taipei, Taiwan.
 
 I build backend services and turn fragmented manual processes into software: API integrations, ERP / CRM automation, data pipelines, and applied ML systems.
 
-[Website](https://paperniuk.com) · [LinkedIn](https://www.linkedin.com/in/paperniuk) · [Repositories](https://github.com/paperniuk?tab=repositories)
+[Website](https://paperniuk.github.io/) · [LinkedIn](https://www.linkedin.com/in/paperniuk) · [Repositories](https://github.com/paperniuk?tab=repositories)
 
 ## What I work on
 
